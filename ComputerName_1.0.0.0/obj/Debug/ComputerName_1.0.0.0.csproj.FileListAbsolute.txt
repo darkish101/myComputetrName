@@ -1,0 +1,42 @@
+C:\data\Scraps\SystemInfo_1.0.0.0\ComputerName_1.0.0.0\ComputerName_1.0.0.0\bin\Debug\ComputerName_1.0.0.0.exe.config
+C:\data\Scraps\SystemInfo_1.0.0.0\ComputerName_1.0.0.0\ComputerName_1.0.0.0\bin\Debug\ComputerName_1.0.0.0.exe
+C:\data\Scraps\SystemInfo_1.0.0.0\ComputerName_1.0.0.0\ComputerName_1.0.0.0\bin\Debug\ComputerName_1.0.0.0.pdb
+C:\data\Scraps\SystemInfo_1.0.0.0\ComputerName_1.0.0.0\ComputerName_1.0.0.0\obj\Debug\ComputerName_1.0.0.0.csprojAssemblyReference.cache
+C:\data\Scraps\SystemInfo_1.0.0.0\ComputerName_1.0.0.0\ComputerName_1.0.0.0\obj\Debug\ComputerName_1._0._0._0.Computer_Name.resources
+C:\data\Scraps\SystemInfo_1.0.0.0\ComputerName_1.0.0.0\ComputerName_1.0.0.0\obj\Debug\ComputerName_1._0._0._0.Properties.Resources.resources
+C:\data\Scraps\SystemInfo_1.0.0.0\ComputerName_1.0.0.0\ComputerName_1.0.0.0\obj\Debug\ComputerName_1.0.0.0.csproj.GenerateResource.cache
+C:\data\Scraps\SystemInfo_1.0.0.0\ComputerName_1.0.0.0\ComputerName_1.0.0.0\obj\Debug\ComputerName_1.0.0.0.csproj.CoreCompileInputs.cache
+C:\data\Scraps\SystemInfo_1.0.0.0\ComputerName_1.0.0.0\ComputerName_1.0.0.0\obj\Debug\ComputerName_1.0.0.0.exe
+C:\data\Scraps\SystemInfo_1.0.0.0\ComputerName_1.0.0.0\ComputerName_1.0.0.0\obj\Debug\ComputerName_1.0.0.0.pdb
+C:\data\Scraps\SystemInfo_1.0.0.0\ComputerName_1.0.0.0\ComputerName_1.0.0.0\bin\Debug\ComputerName_1.0.0.0.exe.manifest
+C:\data\Scraps\SystemInfo_1.0.0.0\ComputerName_1.0.0.0\ComputerName_1.0.0.0\bin\Debug\ComputerName_1.0.0.0.application
+C:\data\Scraps\SystemInfo_1.0.0.0\ComputerName_1.0.0.0\ComputerName_1.0.0.0\obj\Debug\ComputerName_1.0.0.0.exe.manifest
+C:\data\Scraps\SystemInfo_1.0.0.0\ComputerName_1.0.0.0\ComputerName_1.0.0.0\obj\Debug\ComputerName_1.0.0.0.application
+D:\Programing_Files\ComputerName_1.0.0.0\ComputerName_1.0.0.0\bin\Debug\ComputerName_1.0.0.0.exe.config
+D:\Programing_Files\ComputerName_1.0.0.0\ComputerName_1.0.0.0\bin\Debug\ComputerName_1.0.0.0.exe.manifest
+D:\Programing_Files\ComputerName_1.0.0.0\ComputerName_1.0.0.0\bin\Debug\ComputerName_1.0.0.0.application
+D:\Programing_Files\ComputerName_1.0.0.0\ComputerName_1.0.0.0\bin\Debug\ComputerName_1.0.0.0.exe
+D:\Programing_Files\ComputerName_1.0.0.0\ComputerName_1.0.0.0\bin\Debug\ComputerName_1.0.0.0.pdb
+D:\Programing_Files\ComputerName_1.0.0.0\ComputerName_1.0.0.0\obj\Debug\ComputerName_1.0.0.0.csprojAssemblyReference.cache
+D:\Programing_Files\ComputerName_1.0.0.0\ComputerName_1.0.0.0\obj\Debug\ComputerName_1._0._0._0.Properties.Resources.resources
+D:\Programing_Files\ComputerName_1.0.0.0\ComputerName_1.0.0.0\obj\Debug\ComputerName_1.0.0.0.csproj.GenerateResource.cache
+D:\Programing_Files\ComputerName_1.0.0.0\ComputerName_1.0.0.0\obj\Debug\ComputerName_1.0.0.0.csproj.CoreCompileInputs.cache
+D:\Programing_Files\ComputerName_1.0.0.0\ComputerName_1.0.0.0\obj\Debug\ComputerName_1.0.0.0.exe.manifest
+D:\Programing_Files\ComputerName_1.0.0.0\ComputerName_1.0.0.0\obj\Debug\ComputerName_1.0.0.0.application
+D:\Programing_Files\ComputerName_1.0.0.0\ComputerName_1.0.0.0\obj\Debug\ComputerName_1.0.0.0.exe
+D:\Programing_Files\ComputerName_1.0.0.0\ComputerName_1.0.0.0\obj\Debug\ComputerName_1.0.0.0.pdb
+D:\Programing_Files\ComputerName_1.0.0.0\ComputerName_1.0.0.0\obj\Debug\ComputerName_1._0._0._0.My_Computer.resources
+D:\Programing_Files\ComputerName_1.0.0.1 widges\ComputerName_1.0.0.0\bin\Debug\ComputerName_1.0.0.0.exe.config
+D:\Programing_Files\ComputerName_1.0.0.1 widges\ComputerName_1.0.0.0\bin\Debug\ComputerName_1.0.0.0.exe.manifest
+D:\Programing_Files\ComputerName_1.0.0.1 widges\ComputerName_1.0.0.0\bin\Debug\ComputerName_1.0.0.0.application
+D:\Programing_Files\ComputerName_1.0.0.1 widges\ComputerName_1.0.0.0\bin\Debug\ComputerName_1.0.0.0.exe
+D:\Programing_Files\ComputerName_1.0.0.1 widges\ComputerName_1.0.0.0\bin\Debug\ComputerName_1.0.0.0.pdb
+D:\Programing_Files\ComputerName_1.0.0.1 widges\ComputerName_1.0.0.0\obj\Debug\ComputerName_1.0.0.0.csprojAssemblyReference.cache
+D:\Programing_Files\ComputerName_1.0.0.1 widges\ComputerName_1.0.0.0\obj\Debug\ComputerName_1._0._0._0.My_Computer.resources
+D:\Programing_Files\ComputerName_1.0.0.1 widges\ComputerName_1.0.0.0\obj\Debug\ComputerName_1._0._0._0.Properties.Resources.resources
+D:\Programing_Files\ComputerName_1.0.0.1 widges\ComputerName_1.0.0.0\obj\Debug\ComputerName_1.0.0.0.csproj.GenerateResource.cache
+D:\Programing_Files\ComputerName_1.0.0.1 widges\ComputerName_1.0.0.0\obj\Debug\ComputerName_1.0.0.0.csproj.CoreCompileInputs.cache
+D:\Programing_Files\ComputerName_1.0.0.1 widges\ComputerName_1.0.0.0\obj\Debug\ComputerName_1.0.0.0.exe.manifest
+D:\Programing_Files\ComputerName_1.0.0.1 widges\ComputerName_1.0.0.0\obj\Debug\ComputerName_1.0.0.0.application
+D:\Programing_Files\ComputerName_1.0.0.1 widges\ComputerName_1.0.0.0\obj\Debug\ComputerName_1.0.0.0.exe
+D:\Programing_Files\ComputerName_1.0.0.1 widges\ComputerName_1.0.0.0\obj\Debug\ComputerName_1.0.0.0.pdb
